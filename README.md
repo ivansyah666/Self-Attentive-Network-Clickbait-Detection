@@ -1,1 +1,1 @@
-# Self-Attentive-Network-Clickbait-Detection
+# Modification of Self Attentive Network for Clickbait-Detection on Headline
